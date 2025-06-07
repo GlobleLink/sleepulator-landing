@@ -38,6 +38,7 @@ const Hero = () => {
   );
 };
 
+// trigger vercel redeploy after Section.tsx className fix
 
 export { Hero };
 
