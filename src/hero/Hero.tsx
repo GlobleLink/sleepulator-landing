@@ -12,8 +12,6 @@ const Hero = () => {
 
   return (
     <Section yPadding="pt-20 pb-32 bg-gradient-to-br from-[#0b1e3f] to-[#3b1f57] text-white relative">
-     
-        >
       <div className="text-center max-w-3xl mx-auto">
         <h1 className="text-4xl md:text-5xl font-bold leading-tight">
           Discover Your <span className="text-primary-500">Sleep Chronotype</span> in 3 Minutes
@@ -41,3 +39,4 @@ const Hero = () => {
 };
 
 export { Hero };
+
