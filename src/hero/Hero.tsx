@@ -11,7 +11,8 @@ const Hero = () => {
   }, []);
 
   return (
-    <Section className="pt-20 pb-32 bg-gradient-to-br from-[#0b1e3f] to-[#3b1f57] text-white relative">
+    <Section yPadding="pt-20 pb-32 bg-gradient-to-br from-[#0b1e3f] to-[#3b1f57] text-white relative">
+      
       className="bg-gradient-to-br from-[#0b1e3f] to-[#3b1f57] text-white relative"
     >
       <div className="text-center max-w-3xl mx-auto">
