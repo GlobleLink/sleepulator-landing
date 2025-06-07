@@ -39,4 +39,3 @@ const Hero = () => {
 };
 
 export { Hero };
-
