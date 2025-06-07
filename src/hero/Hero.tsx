@@ -38,4 +38,6 @@ const Hero = () => {
   );
 };
 
+
 export { Hero };
+
