@@ -4,7 +4,7 @@ type ISectionProps = {
   title?: string;
   description?: string;
   yPadding?: string;
-  className?: string; // ✅ 新增 className 支持
+  className?: string; // ✅ 新增
   children: ReactNode;
 };
 
@@ -28,4 +28,3 @@ const Section = (props: ISectionProps) => (
 );
 
 export { Section };
-
